@@ -1,0 +1,10 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  intro: intro.html
+last_built: 2021-07-16T19:52Z
+urls:
+  reference: https://docs.ropensci.org/hunspell/reference
+  article: https://docs.ropensci.org/hunspell/articles
+

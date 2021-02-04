@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "437ea822dc8aab9a2b7bfb1b031ca76a5b8a152d",
+    "author": "Vilmantas Gegzna <GegznaV@gmail.com>",
+    "time": "2021-02-04 14:00:45",
+    "files": 3,
+    "merge": false,
+    "message": "Fix/42 update for rstudio 1.3 and 1.4 (#48)\n\n"
+  },
+  "remote": "https://github.com/ropensci/hunspell",
+  "pkg": "hunspell"
+}
