@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "61ea5acb7055cf6c83917f7d7ed12805fe0414e4",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2023-10-27 10:48:36",
+    "files": 1,
+    "merge": false,
+    "message": "Re-enable test, fixed in MacOS 14.1\n"
+  },
+  "repo": "https://github.com/ropensci/hunspell",
+  "pkg": "hunspell"
+}
