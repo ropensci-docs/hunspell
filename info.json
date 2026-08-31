@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "14b6ce5256b8552adfc5608d3d789900dad51ef5",
+    "author": "Copilot <198982749+Copilot@users.noreply.github.com>",
+    "time": "2026-02-12T08:00:40Z",
+    "files": 8,
+    "merge": false,
+    "message": "Add version and word count info to hunspell_info (#61)\n\n"
+  },
+  "repo": "https://github.com/ropensci/hunspell",
+  "pkg": "hunspell",
+  "time": "2026-08-31T10:16:33Z"
+}
